@@ -1,0 +1,12 @@
+{
+  "name": "react-pulser",
+  "version": "1.0.0",
+  "description": "*ABOUT* - A React Component for visually displaying when audio is playing! - Place the icon anywhere you want in your React App! - The interface mimics an audio graph. - Toggle it on/off simply by providing props!",
+  "main": "pulser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

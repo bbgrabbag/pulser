@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+#root {
+    height: 100vh;
+    width: auto;
+    background-color: slategray;
+    opacity: .6;
+}
+
+.bar-wrapper {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: linear-gradient(blue, blueviolet, yellow);
+}
+
+.bar-body {
+    width: 98%;
+    height: 100%;
+    margin: auto;
+    background: transparent;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.bar {
+    width: 18%;
+    background-color: green;
+}
